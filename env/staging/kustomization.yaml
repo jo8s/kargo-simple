@@ -7,4 +7,4 @@ images:
 - name: ghcr.io/akuity/guestbook
   newTag: v0.0.1
 - name: ghcr.io/jo8s/guestbook
-  newTag: v0.0.1
+  newTag: v0.0.2
